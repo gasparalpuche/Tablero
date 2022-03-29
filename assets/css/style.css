@@ -1,0 +1,118 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 42px;
+}
+
+h3 {
+    /*Azul Agua Marina*/
+    color: #00D2B3;
+    font-size: 26px;
+}
+
+h4 {
+    /*Azul Agua Marina*/
+    color: #149900;
+    font-size: 22px;
+    margin: 5;
+}
+
+
+/* Formato de Campos de Entrada */
+input[type="text"],
+input[type="password"] {
+    outline: none;
+    padding: 15px;
+    display: block;
+    width: 300px;
+    border-radius: 6px;
+    border: 1px solid #0B6299;
+    margin: 0px auto;
+    font-size: 18px;
+}
+/*
+input[type="text"]::placeholder {
+    background-image: url(./ico_mail.svg);
+    background-size: 30px 30px;
+    background-repeat: no-repeat;
+    background-position: 5px center;
+}
+
+input[type="password"]::placeholder {
+    background-image: url(./ico_password.svg);
+    background-size: 30px 30px;
+    background-repeat: no-repeat;
+    background-position: 5px center;
+}
+*/
+input[type="text"]:focus-visible {
+    background-color: #f8ff8f;
+    color: #005081;
+}
+
+
+/* Formato de Boton Accesar*/
+input[type="submit"] {
+    outline: none;
+    padding: 15px;
+    display: block;
+    width: 335px;
+    border-radius: 6px;
+    border: 1px solid #0B6299;
+    margin: 20px auto;
+    cursor: pointer;
+    color: #fff;
+    background: #0B6299;
+    font-size: 18px;
+}
+
+/*
+input[type="submit"]:hover {
+    background-color: #00b8eb;
+}
+*/
+
+header {
+    border-bottom: 4px solid #0B6299;
+    padding: 20px 0;
+    margin-bottom: 10px;
+    width: 100%;
+    text-align: center;
+}
+
+header a {
+    text-decoration: none;
+    color: #0B6299;
+    font-size: 32px;
+}
+/*** Cajas de Menu ***/
+.caja-menu-principal {  
+    display:flex;
+    align-content: center;
+    width: 600px;
+    height: 210px;
+    
+    margin: 10px;
+    border: 1px solid #005081;
+}
+.opcion {
+    width: 120px;
+    height: 170px;
+    border: 1px solid #005081;
+    margin: 20px;
+}
+.opcion:hover{ 
+    /*background-color: #b1eeff;*/
+    /*background-color: #a0fab6;*/
+    cursor: pointer;
+    background-color: #f8ff8f;
+}
+.img-opcion-menu{
+    width: 80px;
+    height: 80px;
+}

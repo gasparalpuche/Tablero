@@ -1,0 +1,26 @@
+Registro y Login de Usuarios con PHP y Mysql
+
+https://www.youtube.com/watch?v=37IN_PW5U8E&t=614s
+
+ERjemplos de HTMLS
+https://developer.mozilla.org/es/docs/Web/HTML/Element/input
+
+ Minuto 12 del Viodeo
+
+
+Paleta de colores
+https://color.adobe.com/es/create/color-wheel
+
+
+MySQL
+https://youtu.be/_8MjEhfKRbI
+Curso Completo de Bases de Datos con MySQL (Principiantes)
+
+Curso de HTML y CSS #20 - Modelo de caja: Modelo de caja
+https://youtu.be/AjP8ub8wkDM
+
+Icon
+https://www.flaticon.es/icono-animado-gratis/apoyo-tecnico_6416402?term=tecnico&page=1&position=1&page=1&position=1&related_id=6416402&origin=search
+
+Uso de git
+https://www.youtube.com/watch?v=HiXLkL42tMU
